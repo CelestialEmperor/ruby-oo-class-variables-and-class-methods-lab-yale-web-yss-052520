@@ -23,7 +23,13 @@ class Song
   end
   
   def self.artists
+    puts @@genres
+  end
+  
+  def self.genre_count
     
+  end
+  
   
 end
 
