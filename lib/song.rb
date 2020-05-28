@@ -1,4 +1,4 @@
-require 'byebug'
+require 'pry'
 
 class Song
   
@@ -8,5 +8,5 @@ class Song
   
 end
 
-byebug
+binding.pry
 0
